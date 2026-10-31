@@ -1,0 +1,6 @@
+{
+  "name": "Ludix - Jeux en Ligne Instantanés",
+  "description": "Portail moderne de jeux en ligne gratuits sans téléchargement : Cyber Runner, Casse-Briques Nova, Quantum 2048, Échecs vs IA et Mot Mystère.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
